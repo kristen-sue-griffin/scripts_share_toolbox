@@ -602,10 +602,10 @@ def create_window(controller, parent=None, scripts_share_path=None, program=None
 ##################################
 # Test Calls to UI functionality #
 ##################################
-""" Main Functionality to test call UI only"""
+""" Main Functionality to test call UI only - Currently not in working order / interim checkin """
 def _pytest():
     controller = ScriptsShareController()
-    de
+
     path_test = 'C:\Users\kristen.griffin\Documents\maya\scripts\RebellionScripts\Misc\ScriptsShare'
 
     app = QtGui.QApplication([])
