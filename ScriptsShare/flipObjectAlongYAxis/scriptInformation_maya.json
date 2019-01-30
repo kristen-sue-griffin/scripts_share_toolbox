@@ -1,0 +1,11 @@
+{
+    "command": "import modelingUtilities as mu; reload(mu); muModule = mu.modelingUtilities(); muModule.flipObjectAlongAxis('y')", 
+    "icon": "L:/Asura/Tools/Maya/Common/RebellionScripts/Misc/ScriptsShare/flipObjectAlongYAxis/flipObjectAlongYAxis.jpg", 
+    "parent_projects": [
+        "General"
+    ], 
+    "parent_types": [
+        "Modeling"
+    ], 
+    "tooltip": "Takes selected objects and flips them along the Y axis"
+}

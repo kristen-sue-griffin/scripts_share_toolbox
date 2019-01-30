@@ -1,0 +1,11 @@
+{
+    "command": "import modelingUtilities as mu; reload(mu); muModule = mu.modelingUtilities(); muModule.flipObjectAlongAxis('z')", 
+    "icon": "L:/Asura/Tools/Maya/Common/RebellionScripts/Misc/ScriptsShare/flipObjectAlongZAxis/flipObjectAlongZAxis.jpg", 
+    "parent_projects": [
+        "General"
+    ], 
+    "parent_types": [
+        "Modeling"
+    ], 
+    "tooltip": "Takes selected objects and flips them along the Z axis"
+}

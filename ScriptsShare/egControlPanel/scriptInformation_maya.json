@@ -1,0 +1,11 @@
+{
+    "command": "import RigTools.AsuraHuman.ControlPanel.asuraHuman_controlPanelEG as asrContPan;reload(asrContPan);import RigTools.AsuraHuman.ControlPanel.asuraHuman_animImportEG as animImportEG;reload(animImportEG);egControlPanel = asrContPan.controlPanelClass();egControlPanel.buildUI(specialTabImports=[['RigTools.AsuraHuman.ControlPanel.asuraHuman_animImportEG','Anim Importer'],['RigTools.AsuraHuman.Retargeter.asuraHuman_retargeter_UI','Retargeter']]);", 
+    "icon": "L:/Asura/Tools/Maya/Common/RebellionScripts/Misc/ScriptsShare/egControlPanel/egControlPanel.png", 
+    "parent_projects": [
+        "Evil Genius"
+    ], 
+    "parent_types": [
+        "Animation"
+    ], 
+    "tooltip": "Character Animation Control Panel for Evil Genius 2"
+}

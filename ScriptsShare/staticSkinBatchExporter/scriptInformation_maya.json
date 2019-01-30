@@ -1,0 +1,13 @@
+{
+    "command": "import EnvironmentTools.skinExporter.skinExporter_UI as sui; reload(sui); suic = sui.asura_skinExporter_UI(); suic.showUI()", 
+    "icon": "L:/Asura/Tools/Maya/Common/icons/NinjaIcons/Asura_ImportExport.png", 
+    "parent_projects": [
+        "General"
+    ], 
+    "parent_types": [
+        "Export",
+        "Environment",
+        "Import"
+    ], 
+    "tooltip": "Import and Export static Skin files"
+}
